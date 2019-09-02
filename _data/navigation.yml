@@ -3,14 +3,14 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Publications"
+  - title: "PUBLICATIONS"
     url: /publications/
 
-  - title: "Teaching"
+  - title: "TEACHING"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "PROJECTS"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "NEWS"
     url: /year-archive/
